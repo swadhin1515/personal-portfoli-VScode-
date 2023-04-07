@@ -1,3 +1,4 @@
 # 🏆 Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+**Hackathon participants** @ [Rajastan IT day Hackathon](https://itday.rajasthan.gov.in/content/raj/it-day/en/home.html) 
+
+One of the Finalist of rajastant IT day hackathon .

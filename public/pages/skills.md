@@ -1,20 +1,21 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
+
+- game Development with unreal engine
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
 ## Programming languages
-- C# .NET
-- Python
+- python
+- react native
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
+- SQL
+- node js
+- C#
 - Java
-- VB.NET/VBA
+- 
 
 ## Databases
 - MSSQL
@@ -23,10 +24,11 @@
 - SQLite
 
 ## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- AWS
+- firebase
 
 ## Vcs
 - Git
+
+## algorithm
+ - datastructur and algo with python

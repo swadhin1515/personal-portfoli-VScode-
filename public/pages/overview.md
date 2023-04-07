@@ -2,87 +2,82 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+junior Software Developer specializing in fullstack application development. Experienced with entrylevel  of the development cycle for dynamic web projects. Well-versed in numerous programming languages including Python and JavaScript/TypeScript. Strong background in science and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Software intern** @ [innomatics Research Labs](https://www.innomatics.in/) _(jan 2023 - april 2023)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+Completed full stack development Internship at innomatics Research Labs .
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Collaborated with students to paricipate the progress in fullstack development .Front-End Development · HTML · JavaScript · React.js · Node.js
+
+- _**Technologies used:**_\Front-End Development · HTML · JavaScript · React.js · Node.js 
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**opensource contributor** @ [Google Summer of Code](https://summerofcode.withgoogle.com/) _(dec 2022 -may 2023)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+do internship at google summer of code by contributing to opensource projects .
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Do internship 
+- _**Technologies used:**_ next js ,node js, Python, React.js , javascript , selenium
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
 
 ## Education
+ 
+`2019-2023` [Government college of engineering , Kalahandi , Bhawanipatna](https://gcekbpatna.ac.in/)
+- **B.Tech** in Computer Science and Engineering
+- Courses: Computer Organization, DSA , Computer Program-
+ming(I), Object-Oriented Programming, operating system , AI/ML , FLAT
+ - GPA: 7.4/10.0
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2017-2019` [Jupiter Higher Secondary school , BBSR , Odisha](https://jupiter.ac.in/)
+- **+2 science** in science
+- Courses: PCM
+- Percentage: 79.5/100.0
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
 
 ## Skills
 
-### General Tech Stacks
-- Architecture Design
+## General Tech Stacks
+
+- game Development with unreal engine
 - Desktop App Development
 - Web Development (Frontend & Backend)
-
-### Programming languages
-- C# .NET
-- Python
+## Programming languages
+- python
+- react native
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
+- SQL
+- node js
+- C#
 - Java
-- VB.NET/VBA
+## Databases
+- MSSQL
+- PostgreSQL
+- MySQL
+- SQLite
+## Cloud
+- AWS
+- firebase
+## Vcs
+- Git
+## algorithm
+ - datastructur and algo with python
+
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
+- Certified in coursera on react (Coursera)
+- Certified on aws 
 
 ## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
-
+**Hackathon participants** @ [Rajastan IT day Hackathon](https://itday.rajasthan.gov.in/content/raj/it-day/en/home.html) 
+One of the Finalist of rajastant IT day hackathon .
 ## Languages
 **English**: C1
-**Chinese**: Native
+**Hindi**: Native

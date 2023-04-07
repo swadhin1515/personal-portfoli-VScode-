@@ -1,25 +1,30 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Fullstack intern** @ [innomatics Research Labs](https://www.innomatics.in/) _(jan 2023 - april 2023)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+Completed full stack development Internship.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Collaborated with students to paricipate the progress in fullstack development .
+- _**Technologies used:**_  Front-End Development · HTML · JavaScript · React.js · Node.js
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**opensource contributor** @ [Google Summer of Code](https://summerofcode.withgoogle.com/) _(dec 2022 -may 2023)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+do internship at google summer of code by contributing to opensource projects .
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Do internship 
+- _**Technologies used:**_ next js ,node js, Python, React.js , javascript , selenium
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**student partner** @ [internshala](https://isp.internshala.com/application/joining_offer_accepted/2224117/AB1294A8-F4F0-EA37-D730-11D1439BA1E8) _( march 2023 - jun 2023)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+student partner to represent government college of engineering , kalahandi
+
+&nbsp;
+
+** Intern** @ [KPMG](https://coincent.ai/) _(november 2022 - april 2023)_
+
+AI/ML internship
+-  _**Technologies used:**_ Machine Learning · Pandas (Software) · TensorFlow · Python (Programming Language) , selenium

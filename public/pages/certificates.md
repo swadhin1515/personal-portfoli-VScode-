@@ -1,2 +1,3 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+-Certified in coursera on react (Coursera)
+-Certified on aws 
